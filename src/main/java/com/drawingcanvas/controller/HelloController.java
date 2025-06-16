@@ -1,4 +1,4 @@
-package com.drawingcanvas;
+package com.drawingcanvas.controller;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
