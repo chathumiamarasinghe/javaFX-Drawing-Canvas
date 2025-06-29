@@ -1,4 +1,4 @@
-package com.drawingcanvas.service;
+package com.drawingcanvas.service.intf;
 
 import com.drawingcanvas.model.User;
 
